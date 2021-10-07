@@ -16,12 +16,12 @@ Remember to remove the <> braces while inputting your username and email. This w
 
 For the sake of this tutorial, I'll be using the repository [git tutorial](https://github.com/ComputerSocietyVITC/git_tutorial). 
 Now you need to just navigate to the link and click on the fork option, this will create an identical copy of the repository whose owner will be you.
-<img src="./assests/fork.jpg" width=200/>
+<img src="https://github.com/ComputerSocietyVITC/ComSoc_archives/tree/main/tutorials/git/assests/fork.jpg" width=200/>
 As you can see, this repo has already from another repo whose owner is shown as `cool-pants`.
 
 #### Clone
 So the first thing now you need to do is clone a repo to start working on it. How to clone you ask? Just click on the **code** option we talked about before. 
-<img src="./assests/clone.jpg" width=200/>
+<img src="https://github.com/ComputerSocietyVITC/ComSoc_archives/tree/main/tutorials/git/assests/clone.jpg" width=200/>
 Now just copy the url shown here. This will be the url which will allow us to set up a link, or **remote** as is known in git.
 
 Now we switch to our terminal and local directory. Just navigate to any directory where you want the entire code to be. Once in that directory from in the terminal, run the following set of commands:
@@ -56,9 +56,9 @@ After that just follow the steps in **Committing changes**, switch to **<branch_
 #### Pull Requests
 Now after you make changes, just follow the following steps:
 - **Branch push**: navigate to the master branch of the fork, you will see a compare and pull request option as below 
-<img src="./assests/pr.jpg" width=300/>
+<img src="https://github.com/ComputerSocietyVITC/ComSoc_archives/tree/main/tutorials/git/assests/pr.jpg" width=300/>
 Just click on it and follow the steps, to create your very first PR. If you scroll to the bottom of the PR, you can see the option of merge and close.
-<img src="./assests/merge.jpg" width=300/>
+<img src="https://github.com/ComputerSocietyVITC/ComSoc_archives/tree/main/tutorials/git/assests/merge.jpg" width=300/>
 Uptill the point, this PR is closed or merged, any **changes/commits** to the branch **<branch_name>** will be added to the PR. Thus normally a new branch is created for every new PR.
 
 - **Fork push**: similarly changes to a fork, also give you the option to create a PR for the main repo. The steps are similar to those for the **Branch Pushes**
