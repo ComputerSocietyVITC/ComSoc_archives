@@ -12,7 +12,7 @@ But a smarter move is to create an account with your personal account, add **sec
 ## Looking at the UI now
 Now that we have a account that we access GitHub from, lets look at what features are now available from the UI. 
 GitHub UI:
-<img src="./assests/github_toolbar.jpg" width=500/>
+<img src="https://github.com/ComputerSocietyVITC/ComSoc_archives/tree/main/tutorials/git/assests/github_toolbar.jpg" width=500/>
 
 Looking from left to right:
 The first is the github logo(wow didn't know that didya), which can redirect you to the home page. The next is the search bar, which allows you to search anything from the whole GitHub public server, very usefull tool.
@@ -27,12 +27,12 @@ We'll be only looking at the first two, the other are to be explored by you. As 
 Then at the extreme right, are the following:
 - **alarms**: from all your subscribed users, repos, issues, PRs, etc.
 - **+ (create)**: What you can create basically
-  <img src="./assests/create.jpg" width=100/>
+  <img src="https://github.com/ComputerSocietyVITC/ComSoc_archives/tree/main/tutorials/git/assests/create.jpg" width=100/>
 - **Profile**: Your user profile
 
 ## Repositories
 The majority of work on GitHub is done on Repositories or Repos. So what are Repos? In simple terms, we can visualize repos as directories which are allocated to use to store different versions of our main code.
-<img src="./assests/repos.jpg" width=100/>
+<img src="https://github.com/ComputerSocietyVITC/ComSoc_archives/tree/main/tutorials/git/assests/repos.jpg" width=100/>
 
 ### Branches
 Repositories, contain sub-directories called branches which actually contain our code. The branches are a little more structured than a normal directory. They are, as the name suggests, a branch of our default branch(by default named `main` or `master`), which can be changed.
@@ -40,7 +40,7 @@ Repositories, contain sub-directories called branches which actually contain our
 But similar to normal directories, they are a copy of the default directory, but after that become completely independant of any changes made in the default directory or any changes made in the directory itself.
 
 ### Repo Components
-<img src="./assests/repo_comps.jpg" width=500/>
+<img src="https://github.com/ComputerSocietyVITC/ComSoc_archives/tree/main/tutorials/git/assests/repo_comps.jpg" width=500/>
 
 The components are mostly self explanatory,
 - **code** contains the code
