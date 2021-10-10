@@ -5,4 +5,4 @@ Any tips, tutorials, algorithms related to your expertise can be added here.
 Add your content to be saved in the archives for others to use, improve your skills from archive tutorials or put materials
 for others to learn from. 
 
-Feel free to add content
+Feel free to add more content
